@@ -1,2 +1,8 @@
 # PerformYardTakeHome
-PerformYard Take Home Assessment for generating an API Search Capabilities 
+PerformYard Take Home Assessment for generating an API.
+
+
+Task:
+
+Generate API with the following capabilities
+    - 
